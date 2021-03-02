@@ -5,19 +5,19 @@ shape('turtle')
 
 
 
-speed(10)  # dessiner plus vite
+speed(10)
 
 
 
-fd(80)  # bas de la maison
+fd(80)
 
 lt(90)
 
-fd(80)  # mur droit
+fd(80)
 
 
 
-# le toit
+
 
 lt(30)
 
@@ -31,7 +31,7 @@ fd(80)
 
 lt(120)
 
-fd(80)  # haut
+fd(80)
 
 lt(180)
 
@@ -41,7 +41,7 @@ fd(80)
 
 lt(90)
 
-fd(80)  # mur gauche
+fd(80)
 
 lt(90)
 
@@ -51,12 +51,12 @@ lt(90)
 
 
 
-fd(40)  # porte (mur gauche)
+fd(40)
 
 rt(90)
 
-fd(40)  # porte (haut)
+fd(40)
 
 rt(90)
 
-fd(40)  # porte (mur droit
+fd(40)
