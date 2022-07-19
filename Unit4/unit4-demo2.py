@@ -1,5 +1,3 @@
-# Slide 23
-var1 = True
-var2 = False
-var3 = True
-print(var1 and var3)
+# Slide 65
+num = 3 + 2
+print(num)

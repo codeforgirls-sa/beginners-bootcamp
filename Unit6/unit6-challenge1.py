@@ -1,62 +1,7 @@
-# Slide 60
-from turtle import *
+# Slide 46
 
-shape('turtle')
-
-
-
-speed(10)
-
-
-
-fd(80)
-
-lt(90)
-
-fd(80)
-
-
-
-
-
-lt(30)
-
-fd(80)
-
-lt(120)
-
-fd(80)
-
-
-
-lt(120)
-
-fd(80)
-
-lt(180)
-
-fd(80)
-
-
-
-lt(90)
-
-fd(80)
-
-lt(90)
-
-fd(20)
-
-lt(90)
-
-
-
-fd(40)
-
-rt(90)
-
-fd(40)
-
-rt(90)
-
-fd(40)
+names = {"Sara", "Huda", "Nouf", "Rahaf", "Khuloud", "Samar", "Raghad", "Layan", "Nuha", "Noura", "Dima", "Farah"}
+user = input("Enter your name: ")
+for name  in names:
+    if user == name:
+        print("Yes! We have found one of your 40 likes! ")

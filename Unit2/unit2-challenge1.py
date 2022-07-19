@@ -1,4 +1,5 @@
-# Slide 73
-
-# Hi friend, I am the one who wrote this code, it should print a welcome message:
-print("Welcome home!")
+# Slide 40
+print('Hi Python, my name is')
+print('Farah')
+print('and I am')
+print('18 years old')

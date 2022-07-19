@@ -1,9 +1,6 @@
-# Slide 97
-
-names = {"Sara", "Huda", "Nouf", "Rahaf", "Khuloud", "Samar", "Raghad", "Layan", "Nuha", "Noura", "Dima", "Farah"}
-user = input("Enter your name: ")
-for name  in names:
-    if user == name:
-        print("Yes! We have found one of your 40 likes! ")
-
-
+# Slide 41
+BONUS = 1000
+salaryBeforeBonus = input("Please, enter your current salary: ")
+salaryBeforeBonus = eval(salaryBeforeBonus)
+salaryAfterBonus = BONUS + salaryBeforeBonus
+print("Your salary after adding a bonus of ", BONUS, "SR is ", salaryAfterBonus, "SR")

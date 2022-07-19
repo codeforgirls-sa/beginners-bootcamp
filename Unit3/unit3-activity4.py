@@ -1,6 +1,3 @@
-# Slide 73
-x = 10
-y = 20
-print("x = ", x, " y = ", y)
-x, y = y, x
-print("x = ", x, " y = ", y)
+# Slide 112
+name, age, lefthanded = "Sara", 24, True
+print("My name is ", name, " and I am ", age, " years old. Am I lefthanded? ", lefthanded)

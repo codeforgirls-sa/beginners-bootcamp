@@ -1,11 +1,17 @@
-# Slide 33
-import turtle
-s = turtle.getscreen()
-t = turtle.Turtle()
-t.fd(100)
-t.rt(90)
-t.fd(100)
-t.rt(90)
-t.fd(100)
-t.rt(90)
-t.fd(100)
+# Slide 7
+var = True
+if var:
+    print("Hi")
+    print("Hi")
+    print("Hi")
+    print("Hi")
+    print("Hi")
+    print("Hi")
+    print("Hi")
+    print("Hi")
+    print("Hi")
+    print("Hi")
+    print("Hi")
+    print("Hi")
+    print("Hi")
+

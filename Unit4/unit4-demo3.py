@@ -1,6 +1,4 @@
-# Slide 24
-numl = 4
-num2 = 3
-if numl > 3 and num2 == 3:
-    print("True!")
-
+# Slide 85
+today = "Sunday"
+if today == "Sunday":
+    print("Do not forget to wear your swimsuit!")

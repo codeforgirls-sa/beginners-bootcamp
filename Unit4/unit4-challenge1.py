@@ -1,14 +1,5 @@
-# Slide 55
-
-tsherts = eval(input("How many T-sherts you want to buy? "))
-pants = eval(input("How many pants do you want to buy? "))
-shoes = eval(input("How many pair of shoes do you want to buy? "))
-
-if tsherts == 2 or pants == 2:
-    print("You will have a 15% discount!")
-elif tsherts == 1 and pants == 1:
-    print("You will have a 15% discount!")
-elif (tsherts==1 or pants==1) and not (shoes>0):
-    print("You will have a 15% discount!")
-else:
-    print("Sorry, there is NO discount on the pieces you have taken!")
+# Slide 27
+height, weight = eval(input("Enter your height in CM and your weight in KG (Seperated by a comma): "))
+height2 = height / 100
+bmi = weight / (height2 * height2)
+print("The BMI of a body with height", height, " and weight", weight, " is ", bmi)

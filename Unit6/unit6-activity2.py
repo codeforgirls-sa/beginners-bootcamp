@@ -1,10 +1,4 @@
-# Slide 58
-import turtle
-s = turtle.getscreen()
-t = turtle.Turtle()
+# Slide 45
 
-c = t.clone()
-t.color("magenta")
-c.color("red")
-t.circle(100)
-c.circle(60)
+for counter in range(10):
+    print("I have made a mistake and I am sorry!")

@@ -1,3 +1,6 @@
-# Slide 52
-name, age, lefthanded = "Sara", 24, True
-print("My name is ", name, " and I am ", age, " years old. Am I lefthanded? ", lefthanded)
+# Slide 92
+
+a = 52
+b = 3
+c = 1
+print(b)
